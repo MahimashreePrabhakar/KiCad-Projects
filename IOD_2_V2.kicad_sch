@@ -1,0 +1,51 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "a81fbf71-f5f1-4611-8c1f-e220cd1bf266")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 21.59 25.4)
+		(size 45.72 24.13)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7e8d13e1-a062-4039-b7f3-72f7556e5bca")
+		(property "Sheetname" "Power Supplies"
+			(at 21.59 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 21.59 50.1146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "IOD_2_V2"
+				(path "/a81fbf71-f5f1-4611-8c1f-e220cd1bf266"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
